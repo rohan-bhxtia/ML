@@ -1,2 +1,1 @@
-L
-earning pandas so that i can prepare myself for GsoC 2025.
+Learning pandas so that i can prepare myself for GsoC 2025.
